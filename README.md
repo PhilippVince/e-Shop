@@ -1,7 +1,7 @@
 # e-Shop
 Le companion de vos courses
 
-logiciel pour vous aider a realiser vos listes de courses dans les petits commerces de proximité. Creez vos liste puis exportez les dans Notes ou sur votre AppleWatch.
+logiciel pour vous aider a realiser vos listes de courses dans les petits commerces de proximité. Creez vos listes puis exportez les dans Notes ou sur votre AppleWatch.
 
 Conseils :
 Ajouter d'abord des produits "plus" en haut à droite, ou importer le fichier CVS joint, à dézipper (dernier onglet paramètre de l'application).
